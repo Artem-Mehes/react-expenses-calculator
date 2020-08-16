@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-expenses-calculator/static/css/main.d850324e.chunk.css",
+    "main.js": "/react-expenses-calculator/static/js/main.7fd928d5.chunk.js",
+    "main.js.map": "/react-expenses-calculator/static/js/main.7fd928d5.chunk.js.map",
+    "runtime-main.js": "/react-expenses-calculator/static/js/runtime-main.14e74239.js",
+    "runtime-main.js.map": "/react-expenses-calculator/static/js/runtime-main.14e74239.js.map",
+    "static/js/2.dac34834.chunk.js": "/react-expenses-calculator/static/js/2.dac34834.chunk.js",
+    "static/js/2.dac34834.chunk.js.map": "/react-expenses-calculator/static/js/2.dac34834.chunk.js.map",
+    "index.html": "/react-expenses-calculator/index.html",
+    "precache-manifest.eeac8f1e0d485ac60ef4077c15adabc3.js": "/react-expenses-calculator/precache-manifest.eeac8f1e0d485ac60ef4077c15adabc3.js",
+    "service-worker.js": "/react-expenses-calculator/service-worker.js",
+    "static/css/main.d850324e.chunk.css.map": "/react-expenses-calculator/static/css/main.d850324e.chunk.css.map",
+    "static/js/2.dac34834.chunk.js.LICENSE.txt": "/react-expenses-calculator/static/js/2.dac34834.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14e74239.js",
+    "static/js/2.dac34834.chunk.js",
+    "static/css/main.d850324e.chunk.css",
+    "static/js/main.7fd928d5.chunk.js"
+  ]
+}
